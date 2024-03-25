@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+background-color: darkblue;
+color: aliceblue;
+}
+
+img{
+    width: 35%;
+    padding: 20px;
+}
+
+a{
+    color: white;
+}
